@@ -1,2 +1,2 @@
 # portfolio_ms
- How to guide for building protfolio
+ How to guide for building portfolio
